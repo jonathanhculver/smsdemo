@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'tropo-webapi-ruby'
-require 'net/http'
 
 get '/' do
 	"Hello World!"
